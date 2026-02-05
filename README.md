@@ -1,3 +1,3 @@
 # demo
 This is my first git repository
-Author - Manjot
+Author - Manjot(pahasp)
